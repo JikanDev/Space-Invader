@@ -13,6 +13,6 @@ Plus le jeu avance plus le niveau augmente (c'est afficher en haut à droite de 
 Les touches sont simples, pour vous déplacer vous devez utiliser, soit les flèches de votre clavier, soit le combo ZQSD (ou un mix des deux c au choix).
 Et pour tirer c'est soit la barre espace soit le clic gauche de votre souris.
 
-Pour quitter la pertie en cours et retourner au menu cliquez sur ECHAP, une fois dans le menu si vous appuyer sur ECHAP de nouveau, le jeu se ferme, si vous appuyez sur ESPACE le jeu commence.
+Pour quitter la partie en cours et retourner au menu cliquez sur ECHAP, une fois dans le menu si vous appuyer sur ECHAP de nouveau, le jeu se ferme, si vous appuyez sur ESPACE le jeu commence.
 
 Amusez-vous bien !
