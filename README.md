@@ -1,6 +1,6 @@
 # Space-Invader
 
-Le jeu est simple : Tuer tous les ennemis
+Le jeu est simple : Tuer tous les ennemis.
 
 S'ils vous touche avec leurs lasers ou si vous rentrez en contact avec eux, vous perdez des points de vies (PV) symbolisés par la barre verte en dessous de votre vaisseau.
 
