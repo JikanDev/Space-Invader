@@ -1,4 +1,4 @@
-# Space-Invader
+# Space Invader
 
 Le jeu est simple : Tuer tous les ennemis.
 
